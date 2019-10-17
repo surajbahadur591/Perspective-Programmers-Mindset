@@ -1,0 +1,111 @@
+body,
+html {
+    background: #151d29;
+    background: #d6e7f7;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+    color: red;
+
+}
+
+.verse {
+    border: 0;
+    background: black;
+    position: relative;
+    height: 45px;
+    width: 150px;
+    outline: none;
+    cursor: pointer;
+    border-radius: 35px;
+    color: white;
+    font-size: 15px;
+}
+
+h1 {
+    text-shadow: 2px 2px white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.picture {
+    width: 60%;
+
+}
+
+
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 1180px) {
+    body {
+        height: 100%;
+        width: 100%;
+        background-color: #d6e7f7;
+        margin: 0px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        font-size: 16px;
+        color: red;
+
+    }
+
+    .picture {
+        width: 80%;
+
+    }
+
+    .verse {
+        border: 0;
+        background: black;
+        position: relative;
+        height: 40px;
+        width: 120px;
+        outline: none;
+        cursor: pointer;
+        border-radius: 35px;
+        color: white;
+        font-size: 15px;
+    }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 700px) {
+    body {
+        height: 100%;
+        width: 100%;
+        background-color: #d6e7f7;
+        margin: 0px;
+        text-align: center;
+        font-family: 'Pacifico', cursive;
+        font-size: 14px;
+        color: red;
+    }
+
+    .picture {
+        width: 95%;
+
+    }
+
+    .verse {
+        border: 0;
+        background: black;
+        position: relative;
+        height: 30px;
+        width: 100px;
+        outline: none;
+        cursor: pointer;
+        border-radius: 35px;
+        color: white;
+        font-size: 15px;
+    }
+}
