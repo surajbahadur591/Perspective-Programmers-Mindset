@@ -1,5 +1,5 @@
-# Perspective-Programmer's-Mindset
-
+# Perspective-Programmer's-Mindset 💡
+ 
 >Appilcation to generate random quotes using API.
 
 This application will generate random quote about Programming to inspire programmers. jQuery is used to fetch JSON data from API. 
