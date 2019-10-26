@@ -1,4 +1,4 @@
-# Perspective-Programmers-Mindset
+# Perspective-Programmer's-Mindset
 
 >Appilcation to generate random quotes using API.
 
