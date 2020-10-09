@@ -9,4 +9,4 @@ API used : -
 
 Technology used :- HTML, CSS, Javascript, jQuery. 
 
-You can view site from here :  https://surajbahadur.me/Perspective-Programmers-Mindset/
+You can view site from here :  https://surajbahadur591.github.io/Perspective-Programmers-Mindset/
